@@ -7,7 +7,7 @@ const artworks = [
     medium: 'Acrylic on Canvas',
     size: '100x100 cm',
     price: 'Rp 1.000.000',
-    src: '/images/simfony-Sunyi.jpg',
+    src: '/images/simfony-sunyi.jpg',
     soldOut: true,
   },
   {
@@ -15,7 +15,7 @@ const artworks = [
     title: 'Harmony of Nature',
     medium: 'Acrylic on Canvas',
     size: '100x100 cm',
-    price: 'Rp 1.200.000',
+    price: 'Rp 2.200.000',
     src: '/images/harmony-nature.jpg',
   },
   {
