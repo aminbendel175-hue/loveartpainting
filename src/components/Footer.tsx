@@ -9,7 +9,7 @@ const navLinks = [
 ];
 
 const socials = [
-  { icon: Instagram, href: 'https://instagram.com/aminnurfatah/.com', label: 'Instagram' },
+  { icon: Instagram, href: 'https://instagram.com/aminnurfatah.com', label: 'Instagram' },
   { icon: MessageCircle, href: 'https://wa.me/6287734609465', label: 'WhatsApp' },
   { icon: Mail, href: 'mailto:afifashahira4@gmail.com', label: 'Email' },
 ];
@@ -20,7 +20,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto">
         <div className="flex flex-col md:flex-row items-center justify-between gap-8 mb-10">
           <a href="#home" className="text-white font-bold text-xl tracking-widest uppercase">
-            Nfgallery
+            Thank You
           </a>
           <nav className="flex items-center flex-wrap justify-center gap-6">
             {navLinks.map((link) => (
@@ -50,10 +50,10 @@ export default function Footer() {
         </div>
         <div className="border-t border-white/5 pt-8 flex flex-col md:flex-row items-center justify-between gap-2">
           <p className="text-white/20 text-xs font-light">
-            &copy; 2025 Nfgallery &mdash; All Rights Reserved
+            &copy; ©2025 Nfgallery &mdash; All Rights Reserved
           </p>
           <p className="text-white/20 text-xs font-light">
-            DO NOT COPY REPRODUCE OR USE WITHOUT PERMISSION.
+            ALL ARTWORKS ARE PROTECTED BY COPYRIGHT.
           </p>
         </div>
       </div>
