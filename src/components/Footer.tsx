@@ -16,11 +16,11 @@ const socials = [
 
 export default function Footer() {
   return (
-    <footer className="bg-red border-t border-white/5 py-14 px-6 lg:px-10">
+    <footer className="bg-black border-t border-white/5 py-14 px-6 lg:px-10">
       <div className="max-w-7xl mx-auto">
         <div className="flex flex-col md:flex-row items-center justify-between gap-8 mb-10">
           <a href="#home" className="text-white font-bold text-xl tracking-widest uppercase">
-            Thank You
+            Thank You♥️
           </a>
           <nav className="flex items-center flex-wrap justify-center gap-6">
             {navLinks.map((link) => (
@@ -50,7 +50,7 @@ export default function Footer() {
         </div>
         <div className="border-t border-white/5 pt-8 flex flex-col md:flex-row items-center justify-between gap-2">
           <p className="text-white/20 text-xs font-light">
-            &copy; ©2025 Nfgallery &mdash; All Rights Reserved
+            &copy; 2025 Nfgallery &mdash; All Rights Reserved
           </p>
           <p className="text-white/20 text-xs font-light">
             ALL ARTWORKS ARE PROTECTED BY COPYRIGHT.
