@@ -49,8 +49,6 @@ export default function Hero() {
 
       {/* Content */}
       <div className="relative z-10 px-6 max-w-5xl mx-auto">
-        <p className="hero-brand">
-          NF GALLERY
         </p>
 
         <div className="hero-word-wrapper">
@@ -70,7 +68,7 @@ export default function Hero() {
             href="#gallery"
             className="hero-button"
           >
-            ENTER THE GALLERY →
+            ENTER THE GALLERY 🎨
           </a>
         </div>
 
