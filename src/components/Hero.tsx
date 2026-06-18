@@ -49,7 +49,6 @@ export default function Hero() {
 
       {/* Content */}
       <div className="relative z-10 px-6 max-w-5xl mx-auto">
-        </p>
 
         <div className="hero-word-wrapper">
           <h1 key={index} className="hero-word">
