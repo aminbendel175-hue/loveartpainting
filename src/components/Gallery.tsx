@@ -8,14 +8,14 @@ const artworks = [
     media: 'Acrylic on canvas',
     year: '2024',
     src: '/images/lukisan1.jpg',
-    description: `Mountain Dreams adalah representasi tentang mimpi, perjalanan batin, dan harapan yang terus tumbuh di tengah berbagai tantangan kehidupan. Terinspirasi dari keagungan Gunung Rinjani, lukisan ini tidak hanya menggambarkan sebuah lanskap alam, tetapi juga simbol perjalanan manusia menuju tujuan yang lebih tinggi.
+    description: `Mountain Dream adalah refleksi tentang perjalanan manusia dalam mengejar sesuatu yang lebih tinggi dari dirinya sendiri—bukan hanya secara fisik, tetapi juga secara batin.
 
-Gunung dalam karya ini melambangkan cita-cita dan impian yang tampak jauh, berat, namun selalu memanggil untuk didekati. Kabut dan lapisan warna yang menyelimuti puncak menggambarkan ketidakpastian yang sering ditemui dalam proses meraih mimpi. Sementara itu, cahaya yang muncul di antara bentangan pegunungan menjadi simbol harapan yang tetap hadir meskipun jalan di depan belum sepenuhnya terlihat.
+Gunung dalam karya ini bukan sekadar lanskap, melainkan simbol kesadaran bahwa setiap mimpi selalu berada di kejauhan, memanggil untuk didekati meski jalannya tidak pernah mudah. Kabut yang menyelimuti puncak menggambarkan ketidakpastian yang selalu hadir dalam proses tumbuh.
 
-Melalui Mountain Dreams, penikmat diajak untuk merenungkan bahwa setiap perjalanan memiliki tantangan, tetapi di balik setiap langkah terdapat kemungkinan untuk bertumbuh, menemukan diri sendiri, dan mencapai puncak yang selama ini diimpikan.
+Namun di balik itu semua, terdapat cahaya yang tidak pernah benar-benar hilang. Cahaya itu adalah harapan kecil yang terus memandu langkah, bahkan ketika arah terasa tidak pasti.
 
-Filosofis Pendamping:
-"Mimpi tidak selalu terlihat jelas dari awal, seperti puncak yang tersembunyi di balik kabut. Namun mereka selalu ada, menunggu keberanian untuk mendakinya."`,
+Filosofis:
+"Mimpi tidak menunggu untuk terlihat jelas, ia hanya menunggu untuk diperjuangkan."`,
   },
 
   {
@@ -24,14 +24,14 @@ Filosofis Pendamping:
     media: 'Acrylic on canvas',
     year: '2025',
     src: '/images/lukisan2.jpg',
-    description: `Chaos Line adalah refleksi tentang kehidupan yang tidak pernah berjalan dalam garis lurus. Melalui tumpukan garis, goresan, dan pertemuan warna yang tampak acak, karya ini menggambarkan kekacauan dalam pikiran manusia—antara harapan dan ketakutan, antara keputusan dan keraguan, antara masa lalu dan masa depan.
+    description: `Chaos Line menggambarkan kehidupan yang tidak pernah berjalan lurus, tidak pernah benar-benar rapi, dan tidak pernah bisa diprediksi sepenuhnya.
 
-Garis-garis yang saling bertabrakan menjadi simbol perjalanan hidup yang penuh konflik, tekanan, dan perubahan yang tidak dapat diprediksi. Namun di balik kekacauan tersebut, terdapat ritme dan keteraturan yang tersembunyi.
+Setiap garis dalam karya ini adalah simbol dari keputusan, luka, dan pertemuan yang membentuk diri manusia. Kekacauan bukan kesalahan, melainkan bentuk alami dari proses menjadi.
 
-"Chaos Line" mengajak penikmat untuk melihat bahwa kekacauan bukanlah sesuatu yang harus selalu dihindari. Justru dari situ lahir pertumbuhan, kreativitas, dan pemahaman baru.
+Di dalam kekacauan itu sebenarnya terdapat pola yang tidak langsung terlihat. Seperti hidup, makna sering tersembunyi di balik hal-hal yang tampak tidak teratur.
 
-Filosofis Pendamping:
-"Tidak semua yang tampak berantakan kehilangan makna. Beberapa hal harus kacau terlebih dahulu sebelum menemukan bentuknya."`,
+Filosofis:
+"Terkadang kita harus tersesat untuk benar-benar menemukan arah."`,
   },
 
   {
@@ -40,14 +40,14 @@ Filosofis Pendamping:
     media: 'Acrylic on canvas',
     year: '2024',
     src: '/images/lukisan3.jpg',
-    description: `Tropical Leaves merupakan perayaan terhadap kehidupan, pertumbuhan, dan hubungan manusia dengan alam. Terinspirasi oleh rimbunnya dedaunan tropis yang tumbuh subur di iklim hangat, karya ini menggambarkan bagaimana alam terus berkembang dengan caranya sendiri—tenang, sabar, dan penuh daya hidup.
+    description: `Tropical Leaves adalah perayaan tentang kehidupan yang terus bertumbuh tanpa harus terburu-buru.
 
-Setiap helai daun dalam lukisan ini melambangkan proses pertumbuhan yang berbeda. Ada yang berkembang sempurna, ada yang terluka oleh waktu, dan ada yang masih terus mencari cahaya. Seperti manusia, setiap daun memiliki perjalanan dan cerita yang unik.
+Daun-daun dalam karya ini mewakili manusia dengan segala perbedaan perjalanan hidupnya. Ada yang tumbuh cepat, ada yang lambat, ada yang kuat, ada yang rapuh—namun semuanya tetap menjadi bagian dari satu kesatuan kehidupan.
 
-Melalui Tropical Leaves, penikmat diajak untuk menghargai keindahan yang hadir dalam hal-hal sederhana.
+Alam tidak pernah memaksa, ia hanya mengalir. Dari situlah manusia belajar bahwa pertumbuhan sejati membutuhkan waktu, kesabaran, dan penerimaan.
 
-Filosofis Pendamping:
-"Daun tidak pernah terburu-buru untuk tumbuh, namun ia selalu tiba pada bentuk terbaiknya."`,
+Filosofis:
+"Yang tumbuh perlahan sering kali bertahan paling lama."`,
   },
 
   {
@@ -56,12 +56,14 @@ Filosofis Pendamping:
     media: 'Acrylic on canvas',
     year: '2025',
     src: '/images/lukisan4.jpg',
-    description: `Green Field adalah representasi tentang ketenangan, harapan, dan ruang untuk bertumbuh. Hamparan hijau yang luas dalam karya ini melambangkan kehidupan yang terus bergerak dan berkembang.
+    description: `Green Field adalah ruang hening yang merepresentasikan ketenangan di tengah dunia yang terus bergerak cepat.
 
-Ladang hijau bukan hanya pemandangan, tetapi metafora kehidupan yang tumbuh perlahan namun pasti. Setiap elemen kecil membentuk perjalanan besar yang bermakna.
+Ladang hijau ini bukan hanya tentang alam, tetapi tentang ruang batin manusia yang ingin beristirahat dari tekanan dan kebisingan hidup.
 
-Filosofis Pendamping:
-"Hamparan yang tenang sering menyimpan kehidupan yang paling kuat."`,
+Di dalam kesederhanaannya, terdapat kekuatan yang sering tidak disadari—bahwa ketenangan bukan kelemahan, melainkan fondasi dari kejernihan berpikir dan keberlanjutan hidup.
+
+Filosofis:
+"Yang tenang bukan berarti kosong, tapi penuh yang tak terlihat."`,
   },
 
   {
@@ -70,12 +72,14 @@ Filosofis Pendamping:
     media: 'Acrylic on canvas',
     year: '2024',
     src: '/images/lukisan5.jpg',
-    description: `Angel adalah refleksi tentang cahaya, perlindungan, dan kehadiran yang tak selalu terlihat namun dapat dirasakan.
+    description: `Angel adalah simbol tentang kehadiran yang tidak selalu terlihat, namun selalu bisa dirasakan.
 
-Sosok malaikat menjadi simbol harapan dan kekuatan di saat manusia rapuh.
+Ia bukan hanya representasi spiritual, tetapi juga metafora tentang harapan, dukungan, dan kekuatan yang hadir dalam bentuk paling lembut dalam hidup manusia.
 
-Filosofis Pendamping:
-"Saat dunia menjadi terlalu bising, cahaya yang paling lembut sering kali datang dari tempat yang tidak terlihat."`,
+Kadang “malaikat” bukan sosok, melainkan momen, kenangan, atau seseorang yang pernah membuat kita tetap bertahan.
+
+Filosofis:
+"Cahaya paling lembut sering datang saat kita paling gelap."`,
   },
 
   {
@@ -84,12 +88,14 @@ Filosofis Pendamping:
     media: 'Acrylic on canvas',
     year: '2024',
     src: '/images/lukisan6.jpg',
-    description: `Pertaruhan adalah refleksi tentang keberanian manusia dalam menghadapi ketidakpastian.
+    description: `Pertaruhan adalah tentang keberanian mengambil langkah di tengah ketidakpastian.
 
-Setiap keputusan dalam hidup adalah taruhan, tetapi di situlah makna perjalanan.
+Setiap pilihan dalam hidup selalu memiliki risiko, tetapi justru di situlah nilai dari keberanian terbentuk. Hidup tidak pernah menjanjikan hasil, hanya kesempatan untuk mencoba.
 
-Filosofis Pendamping:
-"Masa depan tidak pernah diberikan kepada mereka yang menunggu, tetapi kepada mereka yang berani mempertaruhkannya."`,
+Dalam setiap keputusan, manusia sedang mempertaruhkan sesuatu: waktu, harapan, atau bahkan dirinya sendiri.
+
+Filosofis:
+"Yang tidak pernah bertaruh, tidak pernah benar-benar hidup."`,
   },
 
   {
@@ -98,12 +104,14 @@ Filosofis Pendamping:
     media: 'Acrylic on canvas',
     year: '2024',
     src: '/images/lukisan7.jpg',
-    description: `Gadis Kecil adalah refleksi tentang kepolosan, harapan, dan mimpi yang masih tumbuh.
+    description: `Gadis Kecil adalah simbol masa ketika dunia masih penuh kemungkinan tanpa batas.
 
-Ia melambangkan dunia sebelum dibentuk oleh rasa takut dan realita.
+Ia mewakili sisi manusia yang paling murni—rasa ingin tahu, keberanian untuk bermimpi, dan keyakinan bahwa segala sesuatu mungkin terjadi.
 
-Filosofis Pendamping:
-"Di matanya tersimpan langit yang luas, tempat mimpi-mimpi kecil belajar terbang."`,
+Seiring waktu, dunia mengubah cara kita melihat, tetapi karya ini mengingatkan bahwa bagian itu tidak pernah benar-benar hilang.
+
+Filosofis:
+"Di dalam setiap dewasa, masih ada anak kecil yang tidak pernah berhenti bermimpi."`,
   },
 
   {
@@ -112,12 +120,14 @@ Filosofis Pendamping:
     media: 'Acrylic on canvas',
     year: '2024',
     src: '/images/lukisan8.jpg',
-    description: `Twin Macaw adalah refleksi tentang kebersamaan, keseimbangan, dan hubungan yang tumbuh melalui kepercayaan.
+    description: `Twin Macaws adalah refleksi tentang hubungan, keseimbangan, dan kebersamaan tanpa kehilangan identitas diri.
 
-Dua jiwa berbeda yang tetap bisa berjalan berdampingan tanpa kehilangan identitas.
+Dua burung yang berbeda namun hidup berdampingan ini melambangkan bahwa hubungan tidak menuntut kesamaan, melainkan penerimaan.
 
-Filosofis Pendamping:
-"Kebersamaan bukan tentang menjadi sama, melainkan tentang tetap berdiri berdampingan di tengah perbedaan."`,
+Dalam perbedaan, justru ditemukan harmoni yang lebih dalam.
+
+Filosofis:
+"Cinta sejati tidak menyatukan menjadi satu, tapi menguatkan dua arah yang berbeda."`,
   },
 
   {
@@ -126,12 +136,14 @@ Filosofis Pendamping:
     media: 'Acrylic on canvas',
     year: '2024',
     src: '/images/lukisan9.jpg',
-    description: `Perempuan dalam Kegelapan adalah refleksi tentang kekuatan yang lahir dari kesunyian, luka yang disimpan dalam diam, dan cahaya yang tetap bertahan di tengah bayang-bayang kehidupan.
+    description: `Perempuan dalam Kegelapan adalah simbol kekuatan yang lahir dari kesunyian dan luka yang tidak selalu terlihat.
 
-Kegelapan bukan sekadar absennya cahaya, melainkan ruang untuk memahami diri sendiri.
+Kegelapan di sini bukan akhir, tetapi ruang di mana manusia belajar mengenali dirinya sendiri tanpa distraksi dunia luar.
 
-Filosofis Pendamping:
-"Kegelapan tidak selalu datang untuk menenggelamkan cahaya; terkadang ia hadir agar kita menyadari bahwa cahaya itu masih ada."`,
+Dalam diam, ada proses yang dalam. Dalam gelap, ada pemahaman yang tumbuh perlahan.
+
+Filosofis:
+"Kegelapan tidak datang untuk menghancurkan, tapi untuk mengajarkan cahaya."`,
   },
 
   {
@@ -140,12 +152,14 @@ Filosofis Pendamping:
     media: 'Acrylic on canvas',
     year: '2024',
     src: '/images/lukisan10.jpg',
-    description: `Malam Indah yang Sepi adalah refleksi tentang keheningan yang memberi ruang untuk diri sendiri.
+    description: `Malam Indah yang Sepi adalah refleksi tentang keheningan yang menenangkan, bukan menakutkan.
 
-Kesunyian bukan kekosongan, tetapi ketenangan batin.
+Kesunyian malam menjadi ruang bagi pikiran untuk kembali jernih, bagi hati untuk kembali tenang.
 
-Filosofis Pendamping:
-"Tidak semua kesunyian harus diisi; beberapa di antaranya diciptakan untuk dinikmati."`,
+Dalam diam, manusia sering menemukan jawabannya sendiri.
+
+Filosofis:
+"Tidak semua keheningan perlu dipecahkan."`,
   },
 
   {
@@ -154,12 +168,14 @@ Filosofis Pendamping:
     media: 'Acrylic on canvas',
     year: '2024',
     src: '/images/lukisan11.jpg',
-    description: `Setunjung adalah refleksi dari pohon besar di desa yang melambangkan keteguhan hidup.
+    description: `Setunjung adalah simbol keteguhan hidup yang tumbuh dari kesabaran waktu.
 
-Ia tumbuh dari kecil, kuat karena waktu, akar, dan kesabaran panjang.
+Seperti pohon besar yang tetap berdiri di tengah perubahan, ia mengajarkan bahwa kekuatan tidak selalu terlihat dari gerakan, tetapi dari ketahanan.
 
-Filosofis Pendamping:
-"Yang tumbuh paling tinggi selalu pernah menjadi sesuatu yang paling sederhana di tanah yang sama."`,
+Ia diam, namun hidupnya penuh makna.
+
+Filosofis:
+"Yang paling kuat sering kali adalah yang paling sabar."`,
   },
 
   {
@@ -168,12 +184,14 @@ Filosofis Pendamping:
     media: 'Acrylic on canvas',
     year: '2024',
     src: '/images/lukisan12.jpg',
-    description: `Silent Nature adalah refleksi tentang alam yang berbicara tanpa suara.
+    description: `Silent Nature adalah refleksi tentang alam yang tidak pernah benar-benar diam.
 
-Alam tidak benar-benar diam, ia hanya berbicara dengan bahasa yang lebih pelan dari manusia.
+Ia berbicara melalui angin, cahaya, dan waktu dengan bahasa yang tidak selalu bisa langsung dimengerti manusia.
 
-Filosofis Pendamping:
-"Alam tidak pernah benar-benar diam; ia hanya berbicara dengan cara yang lebih pelan dari manusia."`,
+Dalam keheningan alam, terdapat pesan yang lebih dalam dari sekadar suara.
+
+Filosofis:
+"Alam tidak pernah diam, kita hanya lupa cara mendengarnya."`,
   },
 ];
 
@@ -193,10 +211,16 @@ export default function Gallery() {
             <div
               key={art.id}
               onClick={() => setSelected(art)}
-              className="cursor-pointer overflow-hidden rounded-3xl hover:scale-[1.03] transition"
+              className="cursor-pointer group"
             >
-              <img src={art.src} className="w-full aspect-[4/5] object-cover" />
-              <div className="text-white mt-3">
+              <div className="overflow-hidden rounded-3xl">
+                <img
+                  src={art.src}
+                  className="w-full aspect-[4/5] object-cover transition group-hover:scale-105"
+                />
+              </div>
+
+              <div className="mt-3 text-white">
                 <h3 className="text-xl font-semibold">{art.title}</h3>
                 <p className="text-white/50 text-sm">
                   {art.media} • {art.year}
@@ -207,26 +231,27 @@ export default function Gallery() {
         </div>
       </div>
 
+      {/* MODAL FIX LANDSCAPE + SCROLL */}
       {selected && (
-        <div className="fixed inset-0 z-50 bg-black/85 backdrop-blur-xl flex items-center justify-center p-4 overflow-y-auto"
+        <div
+          className="fixed inset-0 z-50 bg-black/80 backdrop-blur-xl flex items-center justify-center p-4 overflow-y-auto"
           onClick={() => setSelected(null)}
         >
           <div
             onClick={(e) => e.stopPropagation()}
-            className="w-full max-w-6xl max-h-[92vh] bg-[#14070d] rounded-3xl overflow-hidden flex flex-col lg:flex-row"
+            className="relative w-full max-w-6xl bg-[#14070d] rounded-3xl overflow-hidden flex flex-col sm:flex-row max-h-[92vh]"
           >
-            <button
-              onClick={() => setSelected(null)}
-              className="absolute right-6 top-6 text-white z-50"
-            >
-              <X size={30} />
-            </button>
 
-            <div className="lg:w-1/2 flex items-center justify-center bg-black p-4">
-              <img src={selected.src} className="max-h-[70vh] object-contain" />
+            {/* IMAGE */}
+            <div className="sm:w-1/2 bg-black flex items-center justify-center p-4">
+              <img
+                src={selected.src}
+                className="max-h-[40vh] sm:max-h-[90vh] object-contain"
+              />
             </div>
 
-            <div className="lg:w-1/2 p-6 lg:p-10 text-white overflow-y-auto max-h-[50vh] lg:max-h-[92vh]">
+            {/* DESCRIPTION */}
+            <div className="sm:w-1/2 p-6 lg:p-10 text-white overflow-y-auto max-h-[50vh] sm:max-h-[90vh]">
               <h2 className="text-3xl lg:text-5xl font-bold mb-4">
                 {selected.title}
               </h2>
@@ -235,10 +260,18 @@ export default function Gallery() {
                 {selected.media} • {selected.year}
               </p>
 
-              <p className="leading-8 whitespace-pre-line text-white/80">
+              <p className="whitespace-pre-line leading-8 text-white/80">
                 {selected.description}
               </p>
             </div>
+
+            <button
+              onClick={() => setSelected(null)}
+              className="absolute top-5 right-5 text-white"
+            >
+              <X size={30} />
+            </button>
+
           </div>
         </div>
       )}
