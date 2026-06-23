@@ -51,9 +51,16 @@ export default function Hero() {
       <div className="relative z-10 px-6 max-w-5xl mx-auto">
 
         <div className="hero-word-wrapper">
-          <h1 key={index} className="hero-word">
+          <h1
+            key={index}
+            className="hero-word"
+            style={{
+                fontFamily: "'Caveat', cursive",
+                letterSpacing: "0.05em",
+             }}
+            >
             {words[index]}
-          </h1>
+           </h1>
         </div>
 
         <p className="hero-description">
