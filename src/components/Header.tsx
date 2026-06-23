@@ -46,6 +46,10 @@ className={"fixed top-0 left-0 w-full z-50 transition-all duration-300 ${ scroll
         truncate
         max-w-[70%]
         "
+        style={{
+        fontFamily: "'Caveat', cursive",
+        letterSpacing: "0.05em",
+      }}
       >
         NFGALLERY
       </a>
