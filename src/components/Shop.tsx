@@ -92,7 +92,7 @@ const artworks = [
     src: '/images/suaka-biru.jpg',
   },
   {
-    id: 11,
+    id: 12,
     title: 'Dreamscape River',
     medium: 'Acrylic on Canvas',
     size: '50x50 cm',
