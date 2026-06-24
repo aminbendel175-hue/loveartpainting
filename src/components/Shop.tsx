@@ -91,6 +91,14 @@ const artworks = [
     price: 'Rp 600.000',
     src: '/images/suaka-biru.jpg',
   },
+  {
+    id: 11,
+    title: 'Dreamscape River',
+    medium: 'Acrylic on Canvas',
+    size: '50x50 cm',
+    price: 'Rp 750.000',
+    src: '/images/dreamscape-river.jpg',
+  },
 ];
 
 export default function Shop() {
